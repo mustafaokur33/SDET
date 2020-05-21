@@ -1,0 +1,20 @@
+package day_2;
+
+public class printExercise {
+
+	public static void main(String[] args) {
+		System.out.println("Mike ");
+		System.out.println("Smith");
+		System.out.println("England ");
+		System.out.println("Germany ");
+		System.out.println(" ");
+		System.out.println("HelloAllFriends ");
+		System.out.println("Hotel ");
+		System.out.println("Mcclean ");
+		System.out.println(" ");
+		System.out.print("This");
+		System.out.print(" is");
+		System.out.print(" B13");
+	}
+
+}
